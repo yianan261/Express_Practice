@@ -1,6 +1,6 @@
 # Express_Practice
 
-A Node.js and Express.js API with basic CRUD functions to create, update, delete member information
+A Node.js and Express.js app with basic CRUD functions to create, update, delete member information
 
 ## Usage
 
